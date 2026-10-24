@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 密钥与本地配置（切勿提交）
+.env
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 测试与缓存
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Homework 2 运行产物
+runs/
