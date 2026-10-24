@@ -31,8 +31,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-macOS 或 Linux 下激活虚拟环境使用 `source .venv/bin/activate`。
-
 ## 配置 API Key
 
 1. 复制示例配置：
